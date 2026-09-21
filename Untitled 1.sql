@@ -1,1 +1,1 @@
-select * from information where id = 2;
+select * from information where id in ( 2 ; 4 );
